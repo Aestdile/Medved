@@ -1,5 +1,4 @@
-
-
+﻿
 
 
 // Basic Task-2
@@ -40,3 +39,13 @@ Console.WriteLine($"Kiritilgan son toq va qoldiq={N%2!=0}");
 
 
 */
+
+
+
+
+
+
+
+
+
+
